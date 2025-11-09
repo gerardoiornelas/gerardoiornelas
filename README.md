@@ -9,7 +9,7 @@ small tools, patterns, and ideas that other developers can use.
 ---
 
 ### 🔭 What I’m currently focused on
-- Building **Qripton**, a security layer designed to make encryption effortless and repeatable  
+- Building **Crittora**, a security layer designed to make encryption effortless and repeatable  
 - Improving **developer workflows** around serverless, Python, and TypeScript  
 - Exploring **zero-knowledge proofs**, **identity-bound encryption**, and **stateless key systems**
 
